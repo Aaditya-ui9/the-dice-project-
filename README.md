@@ -1,2 +1,2 @@
 # the-dice-project-
-the dice game with simple html,css,js 
+the dice game with the help of  simple html,css,js 
